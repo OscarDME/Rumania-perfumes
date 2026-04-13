@@ -3,16 +3,16 @@ export const copy = {
   checkoutUrl: "https://www.oriopay.app/p/cosmetice-naturale",
 
   metadata: {
-    title: "Ghid de cosmetice naturale | PerfuMaria das Ervas",
+    title: "Ghid de cosmetice naturale",
     description:
-      "80 de rețete de cosmetice 100% naturale pe care să le prepari acasă. Formule testate și validate, ideale pentru uz personal sau pentru a-ți lansa propria afacere.",
+      "80 de rețete de cosmetice 100% naturale pe care să le prepari acasă. Formule testate și validate, ideale pentru a-ți îngriji pielea și a evita chimicalele toxice.",
   },
 
   hero: {
     headlineLine1: "80 de rețete de",
     headlineHighlight: "COSMETICE NATURALE",
     subheadline:
-      "Ai acces la rețete secrete de cosmetice 100% naturale pe care le poți crea chiar în confortul casei tale! Formule testate și dovedite, perfecte pentru uz personal sau pentru a pune bazele propriei afaceri.",
+      "Ai acces la rețete secrete de cosmetice 100% naturale pe care le poți crea chiar în confortul casei tale! Formule testate și sigure, perfecte pentru a-ți proteja familia și a renunța la produsele industriale pline de toxine.",
     cta: "VREAU ACCES ACUM!",
     imageAlt: "Ghid de cosmetice naturale",
     timerLabels: {
@@ -24,7 +24,7 @@ export const copy = {
   },
 
   story: {
-    text: "Îți ofer acum un ghid practic, la obiect, fără complicații inutile, dar extrem de sigur, pentru a-ți crea acasă cosmetice 100% naturale. Fără să cheltuiești o avere, fără să depinzi de mii de ingrediente – și cu posibilitatea de a le folosi pentru tine, de a le oferi celor dragi sau chiar de a le vinde, dacă vrei să-ți creezi o nouă sursă de venit!",
+    text: "Îți ofer acum un ghid practic, la obiect, fără complicații inutile, dar extrem de sigur, pentru a-ți crea acasă cosmetice 100% naturale. Fără să cheltuiești o avere, fără să depinzi de mii de ingrediente – și cu bucuria de a le folosi pentru tine, de a le oferi celor dragi și de a vă bucura cu toții de o îngrijire sănătoasă și curată!",
     imageAlt: "Cosmetice naturale",
   },
 
@@ -131,7 +131,7 @@ export const copy = {
       "Catalogul ingredientelor – descoperă beneficiile diferitelor materii prime naturale pentru a crea produse cosmetice de înaltă performanță.",
       "Fitoterapie aplicată în cosmetologie – cum să folosești plantele medicinale pentru a potența efectul cosmeticelor tale.",
       "Secretele formulării naturale – reglarea pH-ului, conservarea, selecția materiilor prime și combinațiile eficiente.",
-      "Sfaturi pentru producția de acasă sau profesională – creează-ți propriul atelier de cosmetice naturale și perfecționează-ți tehnicile.",
+      "Sfaturi pentru o producție de acasă perfectă – transformă-ți bucătăria într-un loc sigur pentru a crea cosmetice curate și perfecționează-ți tehnicile.",
       "Sustenabilitate și grija pentru mediu – învață să creezi cosmetice biodegradabile și ecologice.",
     ],
   },
@@ -153,7 +153,7 @@ export const copy = {
         initials: "EG",
         color: "#0f766e",
         stars: 5,
-        text: "Oameni buni, ce ghid minunat! Rețetele sunt super detaliate și ușor de urmat. Am vândut deja câteva produse prietenelor mele și le adoră. Face toți banii!",
+        text: "Oameni buni, ce ghid minunat! Rețetele sunt super detaliate și ușor de urmat. Am preparat deja câteva produse pentru prietenele mele și le adoră. Face toți banii!",
         source: "WhatsApp",
       },
       {
@@ -212,22 +212,22 @@ export const copy = {
         rest: " și învață să prepari în siguranță cele mai bune produse.",
       },
       {
-        bold: "Evidențiază-te pe piața de frumusețe naturală,",
-        rest: " care este în plină expansiune și prețuiește produsele sustenabile.",
+        bold: "Oferă-i pielii tale cea mai bună îngrijire,",
+        rest: " știind exact ce ingrediente pure folosești.",
       },
       {
-        bold: "Învață cum să-ți amenajezi un atelier cosmetic acasă,",
-        rest: " cu sfaturi practice pentru organizarea spațiului de lucru.",
+        bold: "Protejează sănătatea familiei tale",
+        rest: " cu produse fără conservanți nocivi și coloranți artificiali.",
       },
     ],
   },
 
   economy: {
-    headline: "Economii și oportunitate de afaceri pe piața produselor naturale!",
-    text1: "A-ți crea propriile cosmetice naturale reprezintă o oportunitate excelentă atât pentru a economisi, cât și pentru a porni o afacere. Cu Ghidul de cosmetice naturale înveți să produci cosmetice de înaltă calitate la un cost redus, evitând prețurile exagerate ale produselor convenționale și investind în ingrediente naturale, accesibile și eficiente.",
-    text2: "Dacă vrei să-ți deschizi o afacere, acesta este un ghid prețios pentru a construi un proiect sustenabil și profitabil. Cu formule exclusive și sfaturi practice despre conservare, ambalare și piață, îți poți lansa propria marcă de cosmetice naturale, oferind produse artizanale care se aliniază tendinței de consum conștient și ecologic.",
+    headline: "Economii și îngrijire sănătoasă fără chimicale!",
+    text1: "A-ți crea propriile cosmetice naturale este cea mai bună modalitate de a-ți proteja pielea și, în același timp, de a economisi semnificativ. Cu Ghidul de cosmetice naturale vei învăța să produci cosmetice de cea mai înaltă calitate la o fracțiune din prețul pe care l-ai plăti în magazin. Astfel, eviți produsele comerciale scumpe și pline de chimicale, investind în materii prime naturale, accesibile, curate și eficiente.",
+    text2: "Este manualul tău de neprețuit pentru trecerea la un stil de viață mai sănătos. Datorită rețetelor exclusive, vei avea control total asupra a ceea ce aplici pe corpul tău. Te poți bucura de produse realizate manual, care sunt sigure, ecologice și blânde atât cu pielea ta, cât și cu mediul înconjurător.",
     cta: "OBȚINE GHIDUL ACUM!",
-    imageAlt: "Afacere pe piața produselor naturale",
+    imageAlt: "Îngrijire sănătoasă",
   },
 
   finalCta: {
@@ -257,7 +257,6 @@ export const copy = {
 
   footer: {
     tagline: "Descoperă cum să creezi cosmeticele naturale perfecte!",
-    linkLabel: "Curs complet de cosmetice naturale",
-    linkHref: "https://www.perfumariadaservas.shop",
+    linkLabel: "Ghid complet de cosmetice naturale",
   },
 };
